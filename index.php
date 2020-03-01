@@ -3,6 +3,6 @@
      <title>PHP Test </title>
   </head>
   <body>
-  <br/> Server  IP: <?php echo $_SERVER['SERVER_ADDR']; ?>
+  <br/> Test branch Server  IP: <?php echo $_SERVER['SERVER_ADDR']; ?>
   </body>
 </html>
